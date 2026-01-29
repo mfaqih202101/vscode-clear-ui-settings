@@ -1,0 +1,68 @@
+{
+    // ╔================================╗
+    // ║         Theme & Icons          ║
+    // ╚================================╝
+    "workbench.colorTheme": "Ayu Dark",
+    "workbench.iconTheme": "a-file-icon-vscode",
+
+    // ╔================================╗
+    // ║         Workbench UI           ║
+    // ╚================================╝
+    "workbench.editor.showTabs": "none",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.location": "top",
+    "workbench.tree.indent": 23,
+    "workbench.layoutControl.enabled": false,
+
+    // ╔================================╗
+    // ║       Editor Appearance        ║
+    // ╚================================╝
+    "editor.fontFamily": "Google Sans Code",
+    "editor.fontWeight": "600",
+    "editor.fontSize": 17,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "all",
+    "editor.renderLineHighlight": "none",
+    "editor.renderControlCharacters": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.guides.indentation": false,
+
+    // ╔================================╗
+    // ║      Indentation & Unicode     ║
+    // ╚================================╝
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.unicodeHighlight.includeStrings": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+
+    // ╔================================╗
+    // ║           Navigation           ║
+    // ╚================================╝
+    "breadcrumbs.enabled": false,
+
+    // ╔================================╗
+    // ║            Security            ║
+    // ╚================================╝
+    "security.workspace.trust.untrustedFiles": "open",
+
+    // ╔================================╗
+    // ║            Window UI           ║
+    // ╚================================╝
+    "window.customTitleBarVisibility": "auto",
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "toggle",
+    "window.title": "${activeEditorShort}",
+    "window.titleBarStyle": "custom",
+    "window.controlsStyle": "custom",
+
+    // ╔================================╗
+    // ║        Custom CSS Loader       ║
+    // ╚================================╝
+    "vscode_custom_css.imports": [
+        "file:///${env:APPDATA}/Code/User/vscode-custom.css"
+    ]
+}
+

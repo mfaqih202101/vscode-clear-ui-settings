@@ -1,0 +1,37 @@
+.codicon-tree-item-expanded::before{
+    content: none !important;
+}
+
+.slider{
+    visibility: hidden !important;
+}
+
+.indent-guide{
+    opacity: 0 !important;
+}
+
+.indent-guide.active{
+    opacity: 0 !important;
+}
+
+.monaco-tl-twistie{
+    width: 6px !important;
+}
+
+div.titlebar-right > div.action-toolbar-container > div.monaco-toolbar > div.monaco-action-bar{
+    display: none !important;
+}
+
+.composite.has-composite-bar.header-or-footer.header{
+    display: none !important;
+}
+
+.part.sidebar.left.pane-composite-part{
+    height: 100% !important;
+}
+
+.window-title{
+    font-weight: bold;
+}
+
+
